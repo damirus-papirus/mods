@@ -1,2 +1,2 @@
-netherite.jar
-mace.jar
+https://raw.githubusercontent.com/damirus-papirus/mods/refs/heads/main/netherite.jar
+https://raw.githubusercontent.com/damirus-papirus/mods/refs/heads/main/mace.jar
